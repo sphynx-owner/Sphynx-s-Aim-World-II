@@ -1,0 +1,817 @@
+﻿Log file open, 09/19/22 16:06:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pavlov
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.013176
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamAudio
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CustomMapTools
+LogPluginManager: Mounting plugin JsonUtils
+LogStreaming: Display: Took  0.104s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.09.19-13.06.06:388][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.09.19-13.06.06:388][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.09.19-13.06.06:388][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.19-13.06.06:388][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.09.19-13.06.06:388][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.09.19-13.06.06:388][  0]LogConfig: Setting CVar [[r.CustomDepth:0]]
+[2022.09.19-13.06.06:388][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2022.09.19-13.06.06:388][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.09.19-13.06.06:388][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2022.09.19-13.06.06:388][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.09.19-13.06.06:388][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:2]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:2]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.Streaming.MaxTempMemoryAllowed:512]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.ParallelTranslucency:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.Streaming.UseNewMetrics:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.TonemapperFilm:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.19-13.06.06:389][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2022.09.19-13.06.06:389][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.09.19-13.06.06:390][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.09.19-13.06.06:390][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2022.09.19-13.06.06:390][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.09.19-13.06.06:390][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.09.19-13.06.06:390][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.09.19-13.06.06:390][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.09.19-13.06.06:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.19-13.06.06:390][  0]LogConfig: Setting CVar [[net.MaxRepArraySize:2048]]
+[2022.09.19-13.06.06:390][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.19-13.06.06:395][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.09.19-13.06.06:395][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.09.19-13.06.06:396][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.19-13.06.06:396][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.19-13.06.06:396][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.19-13.06.06:396][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.09.19-13.06.06:467][  0]LogHAL: Display: Platform has ~ 16 GB [17126510592 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.19-13.06.06:467][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2022.09.19-13.06.06:467][  0]LogInit: Going up to parent DeviceProfile []
+[2022.09.19-13.06.06:467][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:467][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.09.19-13.06.06:468][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.19-13.06.06:468][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.19-13.06.06:469][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.09.19-13.06.06:469][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.19-13.06.06:470][  0]LogInit: Computer: DESKTOP-N1NJNOH
+[2022.09.19-13.06.06:470][  0]LogInit: User: sphynx
+[2022.09.19-13.06.06:470][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.09.19-13.06.06:470][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.19-13.06.06:471][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.09.19-13.06.06:471][  0]LogMemory: Platform Memory Stats for Windows
+[2022.09.19-13.06.06:471][  0]LogMemory: Process Physical Memory: 120.22 MB used, 120.23 MB peak
+[2022.09.19-13.06.06:471][  0]LogMemory: Process Virtual Memory: 103.38 MB used, 103.38 MB peak
+[2022.09.19-13.06.06:471][  0]LogMemory: Physical Memory: 4922.96 MB used,  11410.15 MB free, 16333.11 MB total
+[2022.09.19-13.06.06:471][  0]LogMemory: Virtual Memory: 4681.61 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2022.09.19-13.06.06:715][  0]LogInit: Using OS detected language (en-US).
+[2022.09.19-13.06.06:715][  0]LogInit: Using OS detected locale (en-IL).
+[2022.09.19-13.06.06:718][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.09.19-13.06.07:126][  0]LogStreaming: Display: Took  0.411s to InitEngineTextLocalization.
+[2022.09.19-13.06.07:207][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.19-13.06.07:207][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.19-13.06.12:868][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.19-13.06.13:003][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2022.09.19-13.06.13:003][  0]LogD3D11RHI:       8031/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.09.19-13.06.13:006][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.09.19-13.06.13:006][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.19-13.06.13:006][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.09.19-13.06.13:014][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.19-13.06.13:014][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.19-13.06.13:014][  0]LogWindows: EnumDisplayDevices:
+[2022.09.19-13.06.13:014][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2022.09.19-13.06.13:015][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2022.09.19-13.06.13:015][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.09.19-13.06.13:015][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.09.19-13.06.13:016][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.09.19-13.06.13:016][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2022.09.19-13.06.13:016][  0]LogD3D11RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2022.09.19-13.06.13:016][  0]LogD3D11RHI:      Driver Date: 6-23-2022
+[2022.09.19-13.06.13:016][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2022.09.19-13.06.13:089][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.19-13.06.13:122][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.09.19-13.06.13:587][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.09.19-13.06.13:613][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.09.19-13.06.13:640][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.09.19-13.06.13:667][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.09.19-13.06.13:697][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.09.19-13.06.13:724][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.09.19-13.06.13:753][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.09.19-13.06.13:783][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.09.19-13.06.13:819][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.19-13.06.13:931][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.09.19-13.06.14:037][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.09.19-13.06.14:037][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.09.19-13.06.14:074][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.09.19-13.06.14:074][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.09.19-13.06.14:101][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.09.19-13.06.14:128][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.09.19-13.06.14:154][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.09.19-13.06.14:195][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.09.19-13.06.14:257][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.09.19-13.06.14:257][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.09.19-13.06.14:258][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.09.19-13.06.14:632][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Intermediate/Shaders/WorkingDirectory/1372/).
+[2022.09.19-13.06.14:632][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sphynx/AppData/Local/Temp/UnrealShaderWorkingDir/B54664F440A07C63FCEB2EBD1A83008A/'.
+[2022.09.19-13.06.14:634][  0]LogXGEController: Cleaning working directory: C:/Users/sphynx/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.09.19-13.06.14:634][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.19-13.06.14:634][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.09.19-13.06.14:634][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.09.19-13.06.16:188][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.09.19-13.06.16:261][  0]LogDerivedDataCache: Loaded boot cache 0.07s 76MB C:/Users/sphynx/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2022.09.19-13.06.16:261][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sphynx/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2022.09.19-13.06.16:261][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.19-13.06.16:261][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.09.19-13.06.16:261][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.19-13.06.16:261][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.09.19-13.06.16:285][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.09.19-13.06.16:285][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.19-13.06.16:285][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.09.19-13.06.16:298][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sphynx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.19-13.06.16:298][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.19-13.06.16:298][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.09.19-13.06.16:321][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.09.19-13.06.16:326][  0]LogSlate: Using FreeType 2.6.0
+[2022.09.19-13.06.16:343][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.19-13.06.16:498][  0]LogAssetRegistry: FAssetRegistry took 0.0371 seconds to start up
+[2022.09.19-13.06.17:279][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.19-13.06.17:689][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.09.19-13.06.17:733][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.09.19-13.06.17:733][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.19-13.06.17:733][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.19-13.06.17:733][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.09.19-13.06.17:778][  0]LogNetVersion: Pavlov 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1000105296)
+[2022.09.19-13.06.18:828][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.101212 seconds
+[2022.09.19-13.06.18:835][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2022.09.19-13.06.18:835][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2022.09.19-13.06.18:835][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.19-13.06.20:684][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2022.09.19-13.06.20:685][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.19-13.06.20:685][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.19-13.06.20:783][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2022.09.19-13.06.20:783][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.19-13.06.20:783][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.19-13.06.20:790][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2022.09.19-13.06.20:791][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.19-13.06.20:791][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.19-13.06.20:799][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2022.09.19-13.06.20:799][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.19-13.06.20:799][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.19-13.06.20:808][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2022.09.19-13.06.20:809][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.19-13.06.20:809][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.19-13.06.20:816][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2022.09.19-13.06.20:816][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.19-13.06.20:816][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.19-13.06.20:858][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2022.09.19-13.06.20:858][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.19-13.06.20:858][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.19-13.06.20:865][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2022.09.19-13.06.20:865][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.19-13.06.20:865][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.19-13.06.20:872][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2022.09.19-13.06.20:872][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.19-13.06.20:872][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.19-13.06.21:119][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.19-13.06.21:150][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.19-13.06.21:904][  0]LogSteamAudio: FSteamAudioModule Startup
+[2022.09.19-13.06.21:904][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll
+[2022.09.19-13.06.21:927][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll.
+[2022.09.19-13.06.21:927][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll
+[2022.09.19-13.06.21:940][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll.
+[2022.09.19-13.06.21:940][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll
+[2022.09.19-13.06.21:970][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll.
+[2022.09.19-13.06.22:192][  0]SourceControl: Source control is disabled
+[2022.09.19-13.06.22:192][  0]SourceControl: Source control is disabled
+[2022.09.19-13.06.22:217][  0]SourceControl: Source control is disabled
+[2022.09.19-13.06.22:235][  0]SourceControl: Source control is disabled
+[2022.09.19-13.06.22:988][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.19-13.06.23:196][  0]LogOcInput: OculusInput pre-init called
+[2022.09.19-13.06.23:506][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2022.09.19-13.06.23:506][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2022.09.19-13.06.23:506][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2022.09.19-13.06.23:506][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2022.09.19-13.06.23:506][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2022.09.19-13.06.23:506][  0]LogClass: Display: 5 Uninitialized script stuct members found
+[2022.09.19-13.06.23:509][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2022.09.19-13.06.23:509][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2022.09.19-13.06.23:509][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2022.09.19-13.06.23:509][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2022.09.19-13.06.23:509][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2022.09.19-13.06.23:514][  0]LogEngine: Initializing Engine...
+[2022.09.19-13.06.23:516][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-77A33678
+[2022.09.19-13.06.23:518][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.09.19-13.06.23:518][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.09.19-13.06.23:519][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.09.19-13.06.23:519][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.09.19-13.06.23:836][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.19-13.06.23:875][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.19-13.06.23:905][  0]LogInit: XAudio2 using 'Index HMD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.09.19-13.06.23:917][  0]LogInit: FAudioDevice initialized.
+[2022.09.19-13.06.23:917][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.19-13.06.23:958][  0]LogDerivedDataCache: Saved boot cache 0.04s 76MB C:/Users/sphynx/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2022.09.19-13.06.23:961][  0]LogInit: Texture streaming: Enabled
+[2022.09.19-13.06.24:032][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.19-13.06.24:060][  0]LogInit: Transaction tracking system initialized
+[2022.09.19-13.06.24:165][  0]BlueprintLog: New page: Editor Load
+[2022.09.19-13.06.24:594][  0]LocalizationService: Localization service is disabled
+[2022.09.19-13.06.25:520][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sphynx/Desktop/Sphynx's Aim World II/Content/' took 0.01s
+[2022.09.19-13.06.25:520][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.09.19-13.06.25:520][  0]LogCook: Display: Mobile HDR setting 0
+[2022.09.19-13.06.25:520][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.09.19-13.06.25:520][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.09.19-13.06.25:520][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.09.19-13.06.25:520][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.09.19-13.06.25:520][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.09.19-13.06.26:048][  0]CustomMapToolsLog: Initializing Pavlov's workshop editor plugin
+[2022.09.19-13.06.26:133][  0]CustomMapToolsLog: Visiting ../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712
+[2022.09.19-13.06.26:133][  0]CustomMapToolsLog: Loaded UGC ID:2842012712
+[2022.09.19-13.06.26:133][  0]CustomMapToolsLog: Visiting ../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712
+[2022.09.19-13.06.26:394][  0]SourceControl: Source control is disabled
+[2022.09.19-13.06.26:395][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.19-13.06.26:401][  0]LightingResults: New page: Lighting Build
+[2022.09.19-13.06.26:406][  0]MapCheck: New page: Map Check
+[2022.09.19-13.06.26:407][  0]LightingResults: New page: Lighting Build
+[2022.09.19-13.06.28:391][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.19-13.06.28:425][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.19-13.06.28:459][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.19-13.06.28:460][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2022.09.19-13.06.28:460][  0]LogFileHelpers: Loading map 'Untitled' took 2.066
+[2022.09.19-13.06.28:601][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.19-13.06.28:608][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.19-13.06.28:614][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.19-13.06.28:620][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.19-13.06.28:649][  0]LogCollectionManager: Loaded 0 collections in 0.001595 seconds
+[2022.09.19-13.06.28:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Collections/' took 0.01s
+[2022.09.19-13.06.28:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sphynx/Desktop/Sphynx's Aim World II/Content/Developers/sphynx/Collections/' took 0.01s
+[2022.09.19-13.06.28:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sphynx/Desktop/Sphynx's Aim World II/Content/Collections/' took 0.01s
+[2022.09.19-13.06.28:694][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2022.09.19-13.06.28:703][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2713 classes and 639 folders.
+[2022.09.19-13.06.28:713][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.09.19-13.06.28:719][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:876][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.28:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.19-13.06.29:021][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.09.19-13.06.29:044][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.09.19-13.06.29:204][  0]LogSlate: Took 0.007362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.19-13.06.29:215][  0]LogSlate: Took 0.007288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.19-13.06.29:228][  0]LogSlate: Took 0.007250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.19-13.06.29:365][  0]LogRenderer: Reallocating scene render targets to support 1084x424 Format 9 NumSamples 4 (Frame:1).
+[2022.09.19-13.06.29:506][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.09.19-13.06.29:506][  0]LogLoad: (Engine Initialization) Total time: 28.08 seconds
+[2022.09.19-13.06.29:506][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.19-13.06.29:611][  0]LogContentStreaming: Texture pool size now 2500 MB
+[2022.09.19-13.06.29:657][  0]LogSlate: Took 0.004959 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.19-13.06.30:172][  8]LogAssetRegistry: Asset discovery search completed in 13.6972 seconds
+[2022.09.19-13.06.30:174][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2022.09.19-13.06.30:174][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2022.09.19-13.06.30:531][ 47]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.19-13.09.11:364][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.09.19-13.09.12:052][409]Cmd: DELETE
+[2022.09.19-13.09.12:052][409]Cmd: ACTOR DELETE
+[2022.09.19-13.09.12:059][409]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.19-13.09.12:082][409]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.09.19-13.10.28:894][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.19-13.10.42:175][204]Cmd: SELECT NONE
+[2022.09.19-13.10.42:188][204]LogSlate: Took 0.006714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.19-13.10.46:626][737]Cmd: SELECT NONE
+[2022.09.19-13.10.59:407][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.19-13.11.02:328][618]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotArena/BotArena.BotArena
+[2022.09.19-13.11.02:798][618]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2022.09.19-13.11.03:536][618]LogSlate: Took 0.004329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.19-13.11.03:652][619]LogSlate: Took 0.004496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.19-13.11.41:349][920]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.BotTemplate
+[2022.09.19-13.12.24:026][899]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/GL_Deathmatch.GL_Deathmatch
+[2022.09.19-13.14.17:090][ 80]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Untitled3E6567814EB1B072056A8984C517E211.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap'
+[2022.09.19-13.14.17:114][ 80]LogFileHelpers: Saving map 'Untitled' took 0.351
+[2022.09.19-13.14.37:849][406]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.19-13.15.03:300][406]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotArenaTarget14627BF84C3A8786746946BE1234F386.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotArena/BotArenaTarget.uasset'
+[2022.09.19-13.15.04:957][589]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotArena/BotArenaTarget.BotArenaTarget
+[2022.09.19-13.15.05:287][590]LogRenderer: Reallocating scene render targets to support 1128x604 Format 9 NumSamples 4 (Frame:1).
+[2022.09.19-13.15.29:518][400]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.642 sec). This should never happen. Something is wrong with the timer delegate!
+[2022.09.19-13.17.25:253][283]LogEditorTransaction: Undo Paste clipboard contents
+[2022.09.19-13.17.25:810][323]LogEditorTransaction: Undo Delete current selection
+[2022.09.19-13.18.36:080][745]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.18.37:337][813]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/UntitledA725913B4A7451F9CF58069538B699A4.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap'
+[2022.09.19-13.18.37:360][813]LogFileHelpers: Saving map 'Untitled' took 0.319
+[2022.09.19-13.18.37:461][813]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/GL_DeathmatchEBF180214798C1CD19054FB53E990301.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/GL_Deathmatch.uasset'
+[2022.09.19-13.18.37:558][813]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplate81B31E09440A3B82C3E6209CE6CB15F4.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.19.03:455][906]LogBlueprint: Warning: Blueprint BotArena (child of/implements BotTemplate) has a member variable with a conflicting name (NewVar_0). Changing to NewVar_0_0.
+[2022.09.19-13.19.15:330][314]LogSlate: Took 0.004591 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.09.19-13.20.10:792][956]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.20.12:551][114]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplateC1600B6F4754B8ED204CC592B419717B.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.20.12:638][114]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotArenaD499740E4D9CE4770480848415645EAE.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotArena/BotArena.uasset'
+[2022.09.19-13.20.35:796][772]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/GL_DeathmatchD7D0DB9D423D19DB40EFD8939340AF96.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/GL_Deathmatch.uasset'
+[2022.09.19-13.20.35:891][772]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplate6913775B4A9B90BA1483C3B9018F2C8E.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.21.36:744][833]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.21.37:857][884]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/UntitledFC6E3165489A43DC620726A67FD0E388.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap'
+[2022.09.19-13.21.37:880][884]LogFileHelpers: Saving map 'Untitled' took 0.326
+[2022.09.19-13.21.37:976][884]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/GL_Deathmatch30141C1C48206829305436B463B61E2B.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/GL_Deathmatch.uasset'
+[2022.09.19-13.21.38:072][884]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplate619C76504148E7330EBEBF99DAA5F258.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.22.12:146][912]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.22.40:502][179]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.22.59:464][404]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.23.37:627][905]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplate53978EE2451548FC9BF163B3267084F5.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.26.28:720][138]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.26.28:759][138]LogBlueprint: Error: [Compiler BotTemplate] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.09.19-13.26.28:976][138]LogBlueprint: Warning: [Compiler BotTemplate] [1227.55] Compile of BotTemplate failed. 1 Fatal Issue(s) 0 Warning(s) [in 256 ms] (/Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.BotTemplate)
+[2022.09.19-13.26.29:620][195]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplateE7AA80B14351CC3683FCA8AAAA3C2BC0.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.27.59:262][907]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.28.54:338][421]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.29.11:512][429]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.19-13.29.31:662][807]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplateDAA0C97642F96A765E0392BF63BCA43A.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.31.21:605][738]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.31.25:385][140]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTargetTemplate.BotTargetTemplate
+[2022.09.19-13.31.28:008][413]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTargetTemplate.BotTargetTemplate
+[2022.09.19-13.31.38:709][580]BlueprintLog: New page: Compile BotTargetTemplate
+[2022.09.19-13.31.41:737][884]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplate9130A9664C0F0A1833912FBF4351B1C7.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.31.41:801][884]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTargetTemplateB29D67F54CBF4A57475BEBB7C6AC66E9.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTargetTemplate.uasset'
+[2022.09.19-13.31.41:853][884]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotArenaTarget9E2704BB4EA23B9E9C0489AAFD4C4F00.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotArena/BotArenaTarget.uasset'
+[2022.09.19-13.31.44:048][114]BlueprintLog: New page: Compile BotTargetTemplate
+[2022.09.19-13.31.48:682][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.19-13.31.54:945][328]BlueprintLog: New page: Compile BotTargetTemplate
+[2022.09.19-13.31.56:138][427]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTargetTemplate253BCEBB40855EB28158C48AA9C41013.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTargetTemplate.uasset'
+[2022.09.19-13.31.56:190][427]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotArenaTargetBBB4D0FF4DF148969D8E7EAD493DC09A.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotArena/BotArenaTarget.uasset'
+[2022.09.19-13.32.06:825][646]BlueprintLog: New page: Compile BotTargetTemplate
+[2022.09.19-13.32.07:603][694]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTargetTemplateEC8AF1B34567E86AD10DE5B15D9309AE.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTargetTemplate.uasset'
+[2022.09.19-13.32.07:654][694]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotArenaTarget64189C1E49FD34EA9D2EB582C5D0AE44.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotArena/BotArenaTarget.uasset'
+[2022.09.19-13.32.22:042][351]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.32.25:437][699]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.33.01:107][840]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.33.02:883][990]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplateE9F12135430C13DBA39C4A95E4280B99.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.33.08:719][630]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.33.52:745][714]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.34.05:455][170]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.TargetTemplate
+[2022.09.19-13.35.00:030][286]BlueprintLog: New page: Compile TargetTemplate
+[2022.09.19-13.35.01:275][345]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplateA55B97A141B6162DAEEED8A756D25189.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.35.01:509][345]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/TargetTemplate279BF7144EED13232108F0B8577D1DAF.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.uasset'
+[2022.09.19-13.35.01:579][345]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/GridshotTargetFB17D48345C0EDAD1B5DDCBEAE5C4B33.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Gridshot/Gridshot/GridshotTarget.uasset'
+[2022.09.19-13.35.01:654][345]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/GridshotTargetTemplate64C970274C6CA32ED06AF5898DD57DC5.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Gridshot/GridshotTargetTemplate.uasset'
+[2022.09.19-13.35.01:719][345]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/SixshotTarget48DAEA2A421F3DDD826E2C8D91CC3A14.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Gridshot/Sixshot/SixshotTarget.uasset'
+[2022.09.19-13.35.01:786][345]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/MotionshotTarget6642B53C4F73F43A051C898FFBD95E86.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/SpiderShot/Motionshot/MotionshotTarget.uasset'
+[2022.09.19-13.35.01:852][345]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/SpidershotTargetTemplateACC43B314F8179E716D9B88A432CD845.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/SpiderShot/SpidershotTargetTemplate.uasset'
+[2022.09.19-13.35.01:917][345]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/SpidershotTargetEBB907454E1484C6F7B755B86B54A9BF.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/SpiderShot/SpiderShot/SpidershotTarget.uasset'
+[2022.09.19-13.35.01:981][345]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/FidgetTargetTemplate7E8230B74E88501CD8E95DAEF8D09EF4.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/FidgetPractices/FidgetTargetTemplate.uasset'
+[2022.09.19-13.35.02:049][345]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/ValorantFidgetTargetF95546E94FEF03DB2A42449DE024DAAC.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/FidgetPractices/ValorantFidget/ValorantFidgetTarget.uasset'
+[2022.09.19-13.35.02:112][345]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTargetTemplate00BF0DFE4EBA21F9A2892485A9F0BB55.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTargetTemplate.uasset'
+[2022.09.19-13.35.02:179][345]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotArenaTargetDA1A86984B2FA276B69C7BBF6368FEE0.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotArena/BotArenaTarget.uasset'
+[2022.09.19-13.36.30:446][578]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CustomMaps/UGC2842012712/Untitled' took 0.035
+[2022.09.19-13.36.30:447][578]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate] ([1] browsable assets)...
+[2022.09.19-13.36.30:454][578]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.BotTemplate]
+[2022.09.19-13.36.30:454][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate]
+[2022.09.19-13.36.30:550][578]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplate_Auto1605BB5C34D56827B6B1D8BAC990D7647.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Autosaves/Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate_Auto1.uasset'
+[2022.09.19-13.36.30:551][578]LogFileHelpers: Auto-saving content packages took 0.105
+[2022.09.19-13.36.57:212][693]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.36.57:256][693]LogBlueprint: Error: [Compiler BotTemplate] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.09.19-13.36.57:257][693]LogBlueprint: Error: [Compiler BotTemplate] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.09.19-13.36.57:474][693]LogBlueprint: Warning: [Compiler BotTemplate] [1856.05] Compile of BotTemplate failed. 2 Fatal Issue(s) 0 Warning(s) [in 261 ms] (/Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.BotTemplate)
+[2022.09.19-13.37.05:230][571]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.37.06:009][607]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplate001CEBA04A333DEB679EDB8B250A718F.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.37.18:235][  6]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.37.47:953][369]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.38.23:550][345]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.38.59:379][331]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.39.00:304][377]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplate3A9DF3994A53435119BABC8DB6879927.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.39.08:656][306]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.39.09:504][349]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplate438373D14B0784D8521F2B8BA4D90B91.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.40.31:537][279]BlueprintLog: New page: Compile BotTemplate
+[2022.09.19-13.40.32:546][339]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplate21FB83F54AA792A8D8D510ACCD94EBEA.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.40.42:148][407]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTemplate200B6EB14D76722571C7DAACA27B2642.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTemplate.uasset'
+[2022.09.19-13.41.19:032][674]BlueprintLog: New page: Compile BotTargetTemplate
+[2022.09.19-13.41.19:898][736]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTargetTemplateD2E84B1346AAA6DF657B9AB347183BDD.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTargetTemplate.uasset'
+[2022.09.19-13.43.56:483][ 79]BlueprintLog: New page: Compile BotTargetTemplate
+[2022.09.19-13.43.57:211][121]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTargetTemplate291E4C1049A7805DEB9F3C8092482B0D.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTargetTemplate.uasset'
+[2022.09.19-13.44.11:957][850]BlueprintLog: New page: Compile BotTargetTemplate
+[2022.09.19-13.44.12:904][921]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/BotTargetTemplate5ED6B60D430CAD603A848C83A5D1F56F.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Bots/BotTargetTemplate.uasset'
+[2022.09.19-13.44.41:582][906]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/Gridshot/GridshotTargetTemplate.GridshotTargetTemplate
+[2022.09.19-13.44.57:426][714]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/FidgetPractices/FidgetTargetTemplate.FidgetTargetTemplate
+[2022.09.19-13.45.31:087][340]BlueprintLog: New page: Compile TargetTemplate
+[2022.09.19-13.45.32:123][361]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/TargetTemplateD4F83BD6439BA362A0DB2DB12DFD0BB3.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.uasset'
+[2022.09.19-13.45.45:196][733]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/FidgetPractices/FidgetPracticeTemplate.FidgetPracticeTemplate
+[2022.09.19-13.45.48:594][ 40]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/FidgetPractices/ValorantFidget/ValorantFigetPractice.ValorantFigetPractice
+[2022.09.19-13.45.57:809][863]LogUObjectArray: Warning: Other object in slot
+[2022.09.19-13.45.57:809][863]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.09.19-13.45.58:435][863]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.625 s
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: === Handled ensure: ===
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: 
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: Stack: 
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ffb1b108304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ffb1b1181ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ffb16b6bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ffb15bc769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ffb15b80917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ffb3c7f7c74 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ffb3ca44393 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ffb3c852d7a UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ffb3c84ee18 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ffb3c84e483 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ff6592e7094 UE4Editor.exe!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ff6592f596c UE4Editor.exe!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ff6592f59ea UE4Editor.exe!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ff6593048da UE4Editor.exe!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ff65930659a UE4Editor.exe!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ffb92de7034 KERNEL32.DLL!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: [Callstack] 0x00007ffb945226a1 ntdll.dll!UnknownFunction []
+[2022.09.19-13.45.58:435][863]LogOutputDevice: Error: 
+[2022.09.19-13.45.58:436][863]LogStats:                SubmitErrorReport -  0.000 s

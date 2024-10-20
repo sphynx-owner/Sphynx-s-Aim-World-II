@@ -1,0 +1,1480 @@
+﻿Log file open, 09/24/22 02:29:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pavlov
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.742026
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamAudio
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CustomMapTools
+LogPluginManager: Mounting plugin JsonUtils
+LogStreaming: Display: Took  0.076s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.CustomDepth:0]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:2]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.09.23-23.29.09:002][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:2]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.Streaming.MaxTempMemoryAllowed:512]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.ParallelTranslucency:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.Streaming.UseNewMetrics:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.TonemapperFilm:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.23-23.29.09:003][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.23-23.29.09:003][  0]LogConfig: Setting CVar [[net.MaxRepArraySize:2048]]
+[2022.09.23-23.29.09:003][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.23-23.29.09:007][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.09.23-23.29.09:007][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.23-23.29.09:007][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.23-23.29.09:008][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.23-23.29.09:008][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.09.23-23.29.09:067][  0]LogHAL: Display: Platform has ~ 16 GB [17126510592 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.23-23.29.09:067][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2022.09.23-23.29.09:067][  0]LogInit: Going up to parent DeviceProfile []
+[2022.09.23-23.29.09:067][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:067][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2022.09.23-23.29.09:068][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.23-23.29.09:068][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.23-23.29.09:069][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.09.23-23.29.09:069][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Config/Windows/Engine.ini]
+[2022.09.23-23.29.09:069][  0]LogInit: Computer: DESKTOP-N1NJNOH
+[2022.09.23-23.29.09:069][  0]LogInit: User: sphynx
+[2022.09.23-23.29.09:069][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.09.23-23.29.09:069][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.23-23.29.09:069][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.09.23-23.29.09:069][  0]LogMemory: Platform Memory Stats for Windows
+[2022.09.23-23.29.09:069][  0]LogMemory: Process Physical Memory: 120.03 MB used, 120.04 MB peak
+[2022.09.23-23.29.09:069][  0]LogMemory: Process Virtual Memory: 103.45 MB used, 103.45 MB peak
+[2022.09.23-23.29.09:069][  0]LogMemory: Physical Memory: 7583.04 MB used,  8750.08 MB free, 16333.11 MB total
+[2022.09.23-23.29.09:069][  0]LogMemory: Virtual Memory: 4681.61 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2022.09.23-23.29.09:097][  0]LogInit: Using OS detected language (en-US).
+[2022.09.23-23.29.09:097][  0]LogInit: Using OS detected locale (en-IL).
+[2022.09.23-23.29.09:098][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.09.23-23.29.09:413][  0]LogStreaming: Display: Took  0.316s to InitEngineTextLocalization.
+[2022.09.23-23.29.09:443][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.23-23.29.09:443][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.23-23.29.12:814][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.23-23.29.13:038][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2022.09.23-23.29.13:038][  0]LogD3D11RHI:       8031/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.09.23-23.29.13:040][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.09.23-23.29.13:040][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.23-23.29.13:040][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.09.23-23.29.13:048][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.23-23.29.13:048][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.23-23.29.13:048][  0]LogWindows: EnumDisplayDevices:
+[2022.09.23-23.29.13:048][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2022.09.23-23.29.13:048][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2022.09.23-23.29.13:048][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.09.23-23.29.13:049][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.09.23-23.29.13:049][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.09.23-23.29.13:049][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2022.09.23-23.29.13:049][  0]LogD3D11RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2022.09.23-23.29.13:049][  0]LogD3D11RHI:      Driver Date: 6-23-2022
+[2022.09.23-23.29.13:049][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2022.09.23-23.29.13:106][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.23-23.29.13:130][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.09.23-23.29.13:355][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.09.23-23.29.13:368][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.09.23-23.29.13:382][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.09.23-23.29.13:395][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.09.23-23.29.13:409][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.09.23-23.29.13:422][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.09.23-23.29.13:436][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.09.23-23.29.13:449][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.09.23-23.29.13:455][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:527][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.23-23.29.13:529][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.09.23-23.29.13:588][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.09.23-23.29.13:588][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.09.23-23.29.13:611][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.09.23-23.29.13:612][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.09.23-23.29.13:624][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.09.23-23.29.13:636][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.09.23-23.29.13:648][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.09.23-23.29.13:661][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.09.23-23.29.13:708][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.09.23-23.29.13:708][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.09.23-23.29.13:709][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.09.23-23.29.13:754][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Intermediate/Shaders/WorkingDirectory/16424/).
+[2022.09.23-23.29.13:754][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sphynx/AppData/Local/Temp/UnrealShaderWorkingDir/B601FBBB453C2B7756FB36995FA3DE19/'.
+[2022.09.23-23.29.13:756][  0]LogXGEController: Cleaning working directory: C:/Users/sphynx/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.09.23-23.29.13:756][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.23-23.29.13:756][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.09.23-23.29.13:756][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.09.23-23.29.14:148][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.09.23-23.29.14:187][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/sphynx/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2022.09.23-23.29.14:187][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sphynx/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2022.09.23-23.29.14:187][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.23-23.29.14:187][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.09.23-23.29.14:188][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.23-23.29.14:188][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.09.23-23.29.14:203][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.09.23-23.29.14:203][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.23-23.29.14:203][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.09.23-23.29.14:215][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sphynx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.23-23.29.14:215][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.23-23.29.14:215][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.09.23-23.29.14:233][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.09.23-23.29.14:234][  0]LogSlate: Using FreeType 2.6.0
+[2022.09.23-23.29.14:235][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.23-23.29.14:308][  0]LogAssetRegistry: FAssetRegistry took 0.0346 seconds to start up
+[2022.09.23-23.29.14:897][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.23-23.29.15:010][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.09.23-23.29.15:012][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.09.23-23.29.15:012][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.23-23.29.15:012][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.23-23.29.15:012][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.09.23-23.29.15:023][  0]LogNetVersion: Pavlov 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1000105296)
+[2022.09.23-23.29.15:420][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.086605 seconds
+[2022.09.23-23.29.15:425][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2022.09.23-23.29.15:425][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2022.09.23-23.29.15:425][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.23-23.29.16:011][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2022.09.23-23.29.16:011][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.23-23.29.16:011][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.23-23.29.16:035][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2022.09.23-23.29.16:035][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.23-23.29.16:035][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.23-23.29.16:037][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2022.09.23-23.29.16:038][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.23-23.29.16:038][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.23-23.29.16:040][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2022.09.23-23.29.16:040][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.23-23.29.16:040][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.23-23.29.16:042][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2022.09.23-23.29.16:042][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.23-23.29.16:042][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.23-23.29.16:045][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2022.09.23-23.29.16:045][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.23-23.29.16:045][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.23-23.29.16:061][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2022.09.23-23.29.16:062][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.23-23.29.16:062][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.23-23.29.16:064][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2022.09.23-23.29.16:064][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.23-23.29.16:064][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.23-23.29.16:066][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2022.09.23-23.29.16:067][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.23-23.29.16:067][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2022.09.23-23.29.16:110][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.23-23.29.16:124][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.23-23.29.16:612][  0]LogSteamAudio: FSteamAudioModule Startup
+[2022.09.23-23.29.16:612][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll
+[2022.09.23-23.29.16:615][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll.
+[2022.09.23-23.29.16:615][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll
+[2022.09.23-23.29.16:616][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll.
+[2022.09.23-23.29.16:616][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll
+[2022.09.23-23.29.16:617][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll.
+[2022.09.23-23.29.16:645][  0]SourceControl: Source control is disabled
+[2022.09.23-23.29.16:645][  0]SourceControl: Source control is disabled
+[2022.09.23-23.29.16:646][  0]SourceControl: Source control is disabled
+[2022.09.23-23.29.16:647][  0]SourceControl: Source control is disabled
+[2022.09.23-23.29.16:799][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.23-23.29.16:919][  0]LogOcInput: OculusInput pre-init called
+[2022.09.23-23.29.17:058][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2022.09.23-23.29.17:058][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2022.09.23-23.29.17:058][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2022.09.23-23.29.17:058][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2022.09.23-23.29.17:058][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2022.09.23-23.29.17:058][  0]LogClass: Display: 5 Uninitialized script stuct members found
+[2022.09.23-23.29.17:059][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2022.09.23-23.29.17:059][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2022.09.23-23.29.17:059][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2022.09.23-23.29.17:059][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2022.09.23-23.29.17:059][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2022.09.23-23.29.17:062][  0]LogEngine: Initializing Engine...
+[2022.09.23-23.29.17:062][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-77A33678
+[2022.09.23-23.29.17:065][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.09.23-23.29.17:065][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.09.23-23.29.17:065][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.09.23-23.29.17:065][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.09.23-23.29.17:228][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.23-23.29.17:240][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.29.17:265][  0]LogInit: XAudio2 using 'Index HMD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.09.23-23.29.17:276][  0]LogInit: FAudioDevice initialized.
+[2022.09.23-23.29.17:276][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.23-23.29.17:323][  0]LogDerivedDataCache: Saved boot cache 0.05s 76MB C:/Users/sphynx/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2022.09.23-23.29.17:329][  0]LogInit: Texture streaming: Enabled
+[2022.09.23-23.29.17:343][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.23-23.29.17:354][  0]LogInit: Transaction tracking system initialized
+[2022.09.23-23.29.17:371][  0]BlueprintLog: New page: Editor Load
+[2022.09.23-23.29.17:429][  0]LocalizationService: Localization service is disabled
+[2022.09.23-23.29.17:776][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sphynx/Desktop/Sphynx's Aim World II/Content/' took 0.01s
+[2022.09.23-23.29.17:776][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.09.23-23.29.17:777][  0]LogCook: Display: Mobile HDR setting 0
+[2022.09.23-23.29.17:777][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.09.23-23.29.17:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.09.23-23.29.17:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.09.23-23.29.17:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.09.23-23.29.17:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.09.23-23.29.17:850][  0]CustomMapToolsLog: Initializing Pavlov's workshop editor plugin
+[2022.09.23-23.29.17:931][  0]CustomMapToolsLog: Visiting ../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712
+[2022.09.23-23.29.17:931][  0]CustomMapToolsLog: Loaded UGC ID:2842012712
+[2022.09.23-23.29.17:931][  0]CustomMapToolsLog: Visiting ../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712
+[2022.09.23-23.29.17:973][  0]SourceControl: Source control is disabled
+[2022.09.23-23.29.17:973][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.23-23.29.17:973][  0]LightingResults: New page: Lighting Build
+[2022.09.23-23.29.17:976][  0]MapCheck: New page: Map Check
+[2022.09.23-23.29.17:976][  0]LightingResults: New page: Lighting Build
+[2022.09.23-23.29.19:591][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.29.19:609][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.23-23.29.19:640][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.23-23.29.19:640][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2022.09.23-23.29.19:640][  0]LogFileHelpers: Loading map 'Untitled' took 1.668
+[2022.09.23-23.29.19:734][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.29.19:740][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.29.19:746][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.29.19:751][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.29.19:756][  0]LogCollectionManager: Loaded 0 collections in 0.001242 seconds
+[2022.09.23-23.29.19:783][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Collections/' took 0.01s
+[2022.09.23-23.29.19:783][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sphynx/Desktop/Sphynx's Aim World II/Content/Developers/sphynx/Collections/' took 0.01s
+[2022.09.23-23.29.19:783][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sphynx/Desktop/Sphynx's Aim World II/Content/Collections/' took 0.00s
+[2022.09.23-23.29.19:783][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2022.09.23-23.29.19:791][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2713 classes and 639 folders.
+[2022.09.23-23.29.19:798][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.09.23-23.29.19:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.09.23-23.29.19:828][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.09.23-23.29.19:833][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.09.23-23.29.19:923][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.23-23.29.19:926][  0]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.23-23.29.19:929][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.23-23.29.19:989][  0]LogRenderer: Reallocating scene render targets to support 1024x1024 Format 10 NumSamples 4 (Frame:1).
+[2022.09.23-23.29.19:998][  0]LogRenderer: Reallocating scene render targets to support 1084x1024 Format 9 NumSamples 4 (Frame:1).
+[2022.09.23-23.29.20:100][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.09.23-23.29.20:100][  0]LogLoad: (Engine Initialization) Total time: 13.23 seconds
+[2022.09.23-23.29.20:100][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.23-23.29.20:187][  0]LogContentStreaming: Texture pool size now 2500 MB
+[2022.09.23-23.29.20:222][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.23-23.29.20:776][ 10]LogAssetRegistry: Asset discovery search completed in 6.4906 seconds
+[2022.09.23-23.29.20:777][ 10]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2022.09.23-23.29.20:777][ 10]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2022.09.23-23.29.21:122][ 48]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.23-23.29.38:240][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.29.38:346][115]LogSlate: Window 'Pavlov Workshop' being destroyed
+[2022.09.23-23.29.38:350][115]LogSlate: Window 'Pavlov Workshop' being destroyed
+[2022.09.23-23.29.42:432][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.29.42:523][615]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.29.42:537][615]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.29.42:538][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.29.42:539][615]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:29:42 AM)
+[2022.09.23-23.29.42:553][615]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.29.42:565][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012051s)
+[2022.09.23-23.29.42:565][615]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.29.42:566][615]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2022.09.23-23.29.42:566][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.013098s)
+[2022.09.23-23.29.42:608][615]LogInit: XAudio2 using 'Index HMD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.09.23-23.29.42:615][615]LogInit: FAudioDevice initialized.
+[2022.09.23-23.29.42:659][615]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.29.42:662][615]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.29.42
+[2022.09.23-23.29.42:663][615]LogWorld: Bringing up level for play took: 0.002528
+[2022.09.23-23.29.42:686][615]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.09.23-23.29.42:689][615]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.914
+[2022.09.23-23.29.42:689][615]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.29.44:466][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.29.44:467][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.29.44:498][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.29.44:499][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.29.44:522][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.29.44:570][830]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.09.23-23.29.49:997][320]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.29.52:195][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.29.57:477][943]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/SpiderShot/Speedershot/Speedershot.Speedershot
+[2022.09.23-23.29.57:844][943]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2022.09.23-23.29.58:532][943]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.23-23.29.58:658][944]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.23-23.30.05:333][558]BlueprintLog: New page: Compile Speedershot
+[2022.09.23-23.30.07:069][682]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Speedershot8146F2BE447CEDF807CCB7A4B581111B.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/SpiderShot/Speedershot/Speedershot.uasset'
+[2022.09.23-23.30.08:939][848]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.30.08:956][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.08:956][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.30.08:956][848]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:30:08 AM)
+[2022.09.23-23.30.08:956][848]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.30.08:968][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011518s)
+[2022.09.23-23.30.08:968][848]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.30.08:969][848]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2022.09.23-23.30.08:969][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.012141s)
+[2022.09.23-23.30.09:013][848]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.30.09:027][848]LogInit: FAudioDevice initialized.
+[2022.09.23-23.30.09:059][848]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.30.09:061][848]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.30.09
+[2022.09.23-23.30.09:061][848]LogWorld: Bringing up level for play took: 0.001830
+[2022.09.23-23.30.09:074][848]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled -0.701
+[2022.09.23-23.30.09:074][848]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.11:634][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.30.24:111][391]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.24:111][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.30.24:149][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.30.24:149][391]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.24:176][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.30.24:218][394]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.09.23-23.30.25:705][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.30.27:586][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.30.27:670][693]LogSlate: Window 'Speedershot' being destroyed
+[2022.09.23-23.30.28:603][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.30.28:677][803]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/SpiderShot/Speedershot/Speedershot.Speedershot
+[2022.09.23-23.30.30:141][885]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.30.30:155][885]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.30:155][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.30.30:155][885]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:30:30 AM)
+[2022.09.23-23.30.30:155][885]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.30.30:170][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014812s)
+[2022.09.23-23.30.30:170][885]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.30.30:171][885]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2022.09.23-23.30.30:171][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.015536s)
+[2022.09.23-23.30.30:224][885]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.30.30:237][885]LogInit: FAudioDevice initialized.
+[2022.09.23-23.30.30:270][885]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.30.30:272][885]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.30.30
+[2022.09.23-23.30.30:272][885]LogWorld: Bringing up level for play took: 0.002496
+[2022.09.23-23.30.30:287][885]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.512
+[2022.09.23-23.30.30:287][885]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.38:548][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.23-23.30.42:478][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.42:478][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.30.42:524][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.30.42:524][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.42:553][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.30.42:658][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.09.23-23.30.43:070][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.30.43:083][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.43:083][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.30.43:084][ 64]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:30:43 AM)
+[2022.09.23-23.30.43:084][ 64]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.30.43:098][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014514s)
+[2022.09.23-23.30.43:099][ 64]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.30.43:099][ 64]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2022.09.23-23.30.43:099][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.015169s)
+[2022.09.23-23.30.43:144][ 64]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.30.43:156][ 64]LogInit: FAudioDevice initialized.
+[2022.09.23-23.30.43:192][ 64]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.30.43:195][ 64]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.30.43
+[2022.09.23-23.30.43:195][ 64]LogWorld: Bringing up level for play took: 0.002669
+[2022.09.23-23.30.43:209][ 64]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled -0.566
+[2022.09.23-23.30.43:209][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.52:783][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.23-23.30.54:899][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.54:899][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.30.54:944][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.30.54:944][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.54:972][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.30.55:080][103]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.09.23-23.30.55:867][168]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.30.55:881][168]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.30.55:881][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.30.55:881][168]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:30:55 AM)
+[2022.09.23-23.30.55:881][168]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.30.55:895][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014232s)
+[2022.09.23-23.30.55:896][168]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.30.55:896][168]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2022.09.23-23.30.55:896][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014907s)
+[2022.09.23-23.30.55:943][168]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.30.55:956][168]LogInit: FAudioDevice initialized.
+[2022.09.23-23.30.55:989][168]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.30.55:991][168]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.30.55
+[2022.09.23-23.30.55:992][168]LogWorld: Bringing up level for play took: 0.002727
+[2022.09.23-23.30.56:006][168]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.23
+[2022.09.23-23.30.56:006][168]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.05:585][965]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.05:585][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.31.05:632][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.31.05:632][965]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.05:659][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.31.05:766][966]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.09.23-23.31.06:981][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.31.11:055][426]BlueprintLog: New page: Compile Speedershot
+[2022.09.23-23.31.11:769][461]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.31.11:798][461]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.11:798][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.31.11:798][461]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:31:11 AM)
+[2022.09.23-23.31.11:798][461]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.31.11:812][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014105s)
+[2022.09.23-23.31.11:813][461]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.31.11:813][461]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2022.09.23-23.31.11:813][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014785s)
+[2022.09.23-23.31.11:859][461]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.31.11:871][461]LogInit: FAudioDevice initialized.
+[2022.09.23-23.31.11:908][461]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.31.11:911][461]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.31.11
+[2022.09.23-23.31.11:911][461]LogWorld: Bringing up level for play took: 0.002611
+[2022.09.23-23.31.11:925][461]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.15
+[2022.09.23-23.31.11:925][461]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.13:854][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.13:854][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.31.13:905][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.31.13:905][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.13:935][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.31.14:040][669]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.09.23-23.31.15:186][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.31.16:318][859]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.31.16:332][859]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.16:332][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.31.16:332][859]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:31:16 AM)
+[2022.09.23-23.31.16:332][859]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.31.16:346][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014162s)
+[2022.09.23-23.31.16:347][859]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.31.16:347][859]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2022.09.23-23.31.16:347][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014787s)
+[2022.09.23-23.31.16:393][859]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.31.16:405][859]LogInit: FAudioDevice initialized.
+[2022.09.23-23.31.16:438][859]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.31.16:441][859]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.31.16
+[2022.09.23-23.31.16:441][859]LogWorld: Bringing up level for play took: 0.002643
+[2022.09.23-23.31.16:454][859]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.68
+[2022.09.23-23.31.16:455][859]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.27:267][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.27:267][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.31.27:313][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.31.27:313][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.27:340][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.31.27:449][815]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.09.23-23.31.28:636][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.31.33:008][334]BlueprintLog: New page: Compile Speedershot
+[2022.09.23-23.31.33:993][398]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.31.34:024][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.34:024][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.31.34:024][398]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:31:34 AM)
+[2022.09.23-23.31.34:024][398]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.31.34:040][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015061s)
+[2022.09.23-23.31.34:040][398]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.31.34:040][398]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2022.09.23-23.31.34:040][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.015721s)
+[2022.09.23-23.31.34:088][398]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.31.34:102][398]LogInit: FAudioDevice initialized.
+[2022.09.23-23.31.34:135][398]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.31.34:138][398]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.31.34
+[2022.09.23-23.31.34:138][398]LogWorld: Bringing up level for play took: 0.002730
+[2022.09.23-23.31.34:152][398]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.377
+[2022.09.23-23.31.34:152][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.36:766][689]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.36:766][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.31.36:812][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.31.36:812][689]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.36:840][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.31.36:943][690]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.09.23-23.31.37:665][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.31.42:007][143]BlueprintLog: New page: Compile Speedershot
+[2022.09.23-23.31.48:315][669]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.31.48:346][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.48:346][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.31.48:346][669]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:31:48 AM)
+[2022.09.23-23.31.48:346][669]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.31.48:361][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014678s)
+[2022.09.23-23.31.48:362][669]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.31.48:362][669]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2022.09.23-23.31.48:362][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.015346s)
+[2022.09.23-23.31.48:409][669]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.31.48:421][669]LogInit: FAudioDevice initialized.
+[2022.09.23-23.31.48:458][669]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.31.48:460][669]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.31.48
+[2022.09.23-23.31.48:461][669]LogWorld: Bringing up level for play took: 0.002607
+[2022.09.23-23.31.48:475][669]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.7
+[2022.09.23-23.31.48:475][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.31.48:751][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.32.11:389][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.32.11:390][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.32.11:441][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.32.11:441][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.32.11:472][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.32.11:581][681]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.09.23-23.32.12:403][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.32.27:440][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.33.37:812][280]BlueprintLog: New page: Compile Speedershot
+[2022.09.23-23.33.38:901][321]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/UntitledFCA1973448969CA5B392979BCCCF6270.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap'
+[2022.09.23-23.33.38:927][321]LogFileHelpers: Saving map 'Untitled' took 0.353
+[2022.09.23-23.33.39:044][321]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Speedershot37119DA542B1F2F9F533AC8907108AFF.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/SpiderShot/Speedershot/Speedershot.uasset'
+[2022.09.23-23.33.40:595][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.34.29:967][965]BlueprintLog: New page: Compile Speedershot
+[2022.09.23-23.34.30:943][995]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Untitled115E35C04384D0EB0BB4C893A7CC610A.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap'
+[2022.09.23-23.34.30:969][995]LogFileHelpers: Saving map 'Untitled' took 0.347
+[2022.09.23-23.34.31:106][995]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Speedershot2B663B464EA811DF2A8CD895F9BC8861.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/SpiderShot/Speedershot/Speedershot.uasset'
+[2022.09.23-23.34.31:856][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.34.31:883][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.34.31:912][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.34.31:912][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.34.31:912][ 77]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:34:31 AM)
+[2022.09.23-23.34.31:912][ 77]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.34.31:927][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014321s)
+[2022.09.23-23.34.31:927][ 77]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.34.31:927][ 77]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2022.09.23-23.34.31:927][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014970s)
+[2022.09.23-23.34.31:973][ 77]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.34.31:986][ 77]LogInit: FAudioDevice initialized.
+[2022.09.23-23.34.32:019][ 77]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.34.32:022][ 77]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.34.32
+[2022.09.23-23.34.32:022][ 77]LogWorld: Bringing up level for play took: 0.002622
+[2022.09.23-23.34.32:036][ 77]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.261
+[2022.09.23-23.34.32:036][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.34.42:535][315]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.34.42:535][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.34.42:583][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.34.42:583][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.34.42:611][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.34.42:683][316]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.09.23-23.34.43:510][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.34.47:967][875]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.34.47:981][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.34.47:981][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.34.47:981][875]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:34:47 AM)
+[2022.09.23-23.34.47:981][875]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.34.47:995][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014232s)
+[2022.09.23-23.34.47:996][875]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.34.47:996][875]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2022.09.23-23.34.47:996][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014883s)
+[2022.09.23-23.34.48:041][875]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.34.48:054][875]LogInit: FAudioDevice initialized.
+[2022.09.23-23.34.48:087][875]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.34.48:091][875]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.34.48
+[2022.09.23-23.34.48:091][875]LogWorld: Bringing up level for play took: 0.003054
+[2022.09.23-23.34.48:105][875]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.33
+[2022.09.23-23.34.48:105][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.34.58:529][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.34.58:529][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.34.58:583][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.34.58:583][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.34.58:611][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.34.58:684][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.09.23-23.34.59:349][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.34.59:905][165]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.34.59:919][165]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.34.59:919][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.34.59:919][165]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:34:59 AM)
+[2022.09.23-23.34.59:919][165]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.34.59:933][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014255s)
+[2022.09.23-23.34.59:934][165]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.34.59:934][165]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2022.09.23-23.34.59:934][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014890s)
+[2022.09.23-23.34.59:982][165]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.34.59:994][165]LogInit: FAudioDevice initialized.
+[2022.09.23-23.35.00:031][165]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.35.00:034][165]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.35.00
+[2022.09.23-23.35.00:034][165]LogWorld: Bringing up level for play took: 0.002538
+[2022.09.23-23.35.00:048][165]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.273
+[2022.09.23-23.35.00:048][165]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.35.01:655][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.35.15:501][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.35.15:501][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.35.15:552][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.35.15:552][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.35.15:580][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.35.15:654][683]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.09.23-23.35.18:356][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.35.23:559][538]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.35.23:572][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.35.23:573][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.35.23:573][538]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:35:23 AM)
+[2022.09.23-23.35.23:573][538]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.35.23:587][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014669s)
+[2022.09.23-23.35.23:588][538]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.35.23:588][538]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2022.09.23-23.35.23:588][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.015318s)
+[2022.09.23-23.35.23:634][538]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.35.23:646][538]LogInit: FAudioDevice initialized.
+[2022.09.23-23.35.23:677][538]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.35.23:679][538]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.35.23
+[2022.09.23-23.35.23:680][538]LogWorld: Bringing up level for play took: 0.002436
+[2022.09.23-23.35.23:693][538]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled -0.082
+[2022.09.23-23.35.23:694][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.35.28:351][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.23-23.35.29:344][167]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/SpiderShot/Speedershot/Speedershottarget.Speedershottarget
+[2022.09.23-23.35.56:452][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.35.56:452][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.35.56:508][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.35.56:509][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.35.56:540][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.35.56:583][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.09.23-23.35.57:651][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.36.00:678][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.36.11:542][600]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.36.11:560][600]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.36.11:560][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.36.11:560][600]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:36:11 AM)
+[2022.09.23-23.36.11:560][600]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.36.11:575][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014312s)
+[2022.09.23-23.36.11:575][600]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.36.11:575][600]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2022.09.23-23.36.11:575][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014961s)
+[2022.09.23-23.36.11:625][600]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.36.11:637][600]LogInit: FAudioDevice initialized.
+[2022.09.23-23.36.11:666][600]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.36.11:669][600]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.36.11
+[2022.09.23-23.36.11:669][600]LogWorld: Bringing up level for play took: 0.002476
+[2022.09.23-23.36.11:682][600]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled -0.093
+[2022.09.23-23.36.11:683][600]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.36.21:164][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.36.21:164][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.36.21:212][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.36.21:212][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.36.21:243][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.36.21:316][734]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.09.23-23.36.22:470][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.36.52:580][251]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.36.52:598][251]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.36.52:598][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.36.52:598][251]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:36:52 AM)
+[2022.09.23-23.36.52:598][251]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.36.52:612][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014317s)
+[2022.09.23-23.36.52:613][251]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.36.52:613][251]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2022.09.23-23.36.52:613][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014931s)
+[2022.09.23-23.36.52:661][251]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.36.52:674][251]LogInit: FAudioDevice initialized.
+[2022.09.23-23.36.52:704][251]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.36.52:707][251]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.36.52
+[2022.09.23-23.36.52:707][251]LogWorld: Bringing up level for play took: 0.002590
+[2022.09.23-23.36.52:720][251]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.946
+[2022.09.23-23.36.52:721][251]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.36.58:205][903]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.23-23.37.14:993][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.37.14:993][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.37.15:041][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.37.15:041][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.37.15:071][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.37.15:146][726]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.09.23-23.37.15:519][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.37.23:099][558]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.37.23:117][558]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.37.23:117][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.37.23:117][558]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:37:23 AM)
+[2022.09.23-23.37.23:117][558]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.37.23:131][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014235s)
+[2022.09.23-23.37.23:132][558]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.37.23:132][558]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2022.09.23-23.37.23:132][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014881s)
+[2022.09.23-23.37.23:179][558]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.37.23:191][558]LogInit: FAudioDevice initialized.
+[2022.09.23-23.37.23:227][558]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.37.23:230][558]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.37.23
+[2022.09.23-23.37.23:230][558]LogWorld: Bringing up level for play took: 0.002644
+[2022.09.23-23.37.23:244][558]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled -0.531
+[2022.09.23-23.37.23:244][558]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.37.32:343][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.37.32:343][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.37.32:390][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.37.32:390][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.37.32:419][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.37.32:495][453]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.09.23-23.37.34:265][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.37.41:108][443]BlueprintLog: New page: Compile Speedershot
+[2022.09.23-23.37.45:036][865]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.37.45:069][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.37.45:069][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.37.45:069][865]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:37:45 AM)
+[2022.09.23-23.37.45:069][865]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.37.45:083][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013986s)
+[2022.09.23-23.37.45:083][865]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.37.45:083][865]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2022.09.23-23.37.45:083][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014602s)
+[2022.09.23-23.37.45:132][865]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.37.45:145][865]LogInit: FAudioDevice initialized.
+[2022.09.23-23.37.45:180][865]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.37.45:183][865]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.37.45
+[2022.09.23-23.37.45:183][865]LogWorld: Bringing up level for play took: 0.002606
+[2022.09.23-23.37.45:196][865]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled -0.578
+[2022.09.23-23.37.45:197][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.38.05:412][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.38.05:412][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.38.05:462][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.38.05:462][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.38.05:492][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.38.05:567][280]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.09.23-23.38.06:134][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.38.07:159][459]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/PracticeTemplate.PracticeTemplate
+[2022.09.23-23.38.51:479][156]BlueprintLog: New page: Compile Speedershot
+[2022.09.23-23.38.52:528][191]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Untitled57F5DB76449D289F2C6D2FB31D7C57AF.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap'
+[2022.09.23-23.38.52:554][191]LogFileHelpers: Saving map 'Untitled' took 0.352
+[2022.09.23-23.38.52:671][191]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/SpeedershotA483C1A54E9C7ED02A78229320EBDA8B.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/SpiderShot/Speedershot/Speedershot.uasset'
+[2022.09.23-23.38.53:227][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.38.53:292][255]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.38.53:328][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.38.53:328][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.38.53:328][255]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:38:53 AM)
+[2022.09.23-23.38.53:329][255]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.38.53:344][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015255s)
+[2022.09.23-23.38.53:344][255]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.38.53:344][255]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2022.09.23-23.38.53:345][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.015917s)
+[2022.09.23-23.38.53:393][255]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.38.53:406][255]LogInit: FAudioDevice initialized.
+[2022.09.23-23.38.53:442][255]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.38.53:445][255]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.38.53
+[2022.09.23-23.38.53:445][255]LogWorld: Bringing up level for play took: 0.002599
+[2022.09.23-23.38.53:458][255]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled -0.316
+[2022.09.23-23.38.53:459][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.39.12:018][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.39.12:019][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.39.12:067][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.39.12:067][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.39.12:098][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.39.12:167][372]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.09.23-23.39.12:943][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.39.13:647][519]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.23-23.39.14:295][581]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.39.14:310][581]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.39.14:310][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.39.14:311][581]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:39:14 AM)
+[2022.09.23-23.39.14:311][581]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.39.14:325][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014168s)
+[2022.09.23-23.39.14:325][581]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.39.14:325][581]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2022.09.23-23.39.14:325][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014783s)
+[2022.09.23-23.39.14:372][581]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.39.14:384][581]LogInit: FAudioDevice initialized.
+[2022.09.23-23.39.14:421][581]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.39.14:424][581]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.39.14
+[2022.09.23-23.39.14:424][581]LogWorld: Bringing up level for play took: 0.002506
+[2022.09.23-23.39.14:438][581]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.664
+[2022.09.23-23.39.14:439][581]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.39.18:207][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.23-23.39.19:557][162]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/SpiderShot/Speedershot/Speedershottarget.Speedershottarget
+[2022.09.23-23.40.28:197][985]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.40.28:198][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.40.28:248][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.40.28:248][985]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.40.28:280][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.40.28:323][986]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.09.23-23.40.29:333][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.40.29:415][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.40.29:433][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.40.29:433][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.40.29:433][ 91]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:40:29 AM)
+[2022.09.23-23.40.29:433][ 91]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.40.29:447][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014272s)
+[2022.09.23-23.40.29:448][ 91]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.40.29:448][ 91]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2022.09.23-23.40.29:448][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014945s)
+[2022.09.23-23.40.29:496][ 91]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.40.29:508][ 91]LogInit: FAudioDevice initialized.
+[2022.09.23-23.40.29:542][ 91]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.40.29:544][ 91]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.40.29
+[2022.09.23-23.40.29:545][ 91]LogWorld: Bringing up level for play took: 0.002564
+[2022.09.23-23.40.29:558][ 91]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled -0.216
+[2022.09.23-23.40.29:559][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.40.37:996][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.40.37:996][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.40.38:037][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.40.38:037][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.40.38:068][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.40.38:107][961]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.09.23-23.40.39:007][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.41.02:158][562]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.41.02:176][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.41.02:176][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.41.02:176][562]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:41:02 AM)
+[2022.09.23-23.41.02:176][562]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.41.02:190][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014377s)
+[2022.09.23-23.41.02:191][562]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.41.02:191][562]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2022.09.23-23.41.02:191][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.015033s)
+[2022.09.23-23.41.02:237][562]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.41.02:249][562]LogInit: FAudioDevice initialized.
+[2022.09.23-23.41.02:283][562]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.41.02:286][562]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.41.02
+[2022.09.23-23.41.02:286][562]LogWorld: Bringing up level for play took: 0.002524
+[2022.09.23-23.41.02:300][562]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.525
+[2022.09.23-23.41.02:300][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.41.08:061][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.23-23.41.11:130][593]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/SpiderShot/Speedershot/Speedershottarget.Speedershottarget
+[2022.09.23-23.41.17:832][249]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.TargetTemplate
+[2022.09.23-23.42.29:903][565]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.42.29:903][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.42.29:969][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.42.29:969][565]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.42.30:002][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.42.30:050][566]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.09.23-23.42.37:112][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.42.39:831][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.23-23.42.42:202][843]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.42.42:218][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.42.42:218][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.42.42:218][843]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:42:42 AM)
+[2022.09.23-23.42.42:218][843]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.42.42:233][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014198s)
+[2022.09.23-23.42.42:233][843]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.42.42:233][843]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2022.09.23-23.42.42:233][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014834s)
+[2022.09.23-23.42.42:280][843]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.42.42:292][843]LogInit: FAudioDevice initialized.
+[2022.09.23-23.42.42:320][843]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.42.42:323][843]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.42.42
+[2022.09.23-23.42.42:323][843]LogWorld: Bringing up level for play took: 0.002432
+[2022.09.23-23.42.42:336][843]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.562
+[2022.09.23-23.42.42:337][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.42.44:843][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.23-23.42.46:042][283]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.TargetTemplate
+[2022.09.23-23.42.51:598][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.42.51:598][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.42.51:651][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.42.51:651][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.42.51:681][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.42.51:737][783]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.09.23-23.42.52:800][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.43.22:493][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.43.22:512][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.43.22:512][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.43.22:512][ 12]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:43:22 AM)
+[2022.09.23-23.43.22:512][ 12]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.43.22:528][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016012s)
+[2022.09.23-23.43.22:529][ 12]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.43.22:529][ 12]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2022.09.23-23.43.22:529][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.016709s)
+[2022.09.23-23.43.22:578][ 12]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.43.22:590][ 12]LogInit: FAudioDevice initialized.
+[2022.09.23-23.43.22:626][ 12]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.43.22:628][ 12]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.43.22
+[2022.09.23-23.43.22:629][ 12]LogWorld: Bringing up level for play took: 0.002517
+[2022.09.23-23.43.22:642][ 12]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.867
+[2022.09.23-23.43.22:643][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.43.26:695][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.23-23.43.33:123][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.43.33:123][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.43.33:175][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.43.33:175][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.43.33:205][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.43.33:229][110]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.09.23-23.43.34:309][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.43.34:854][249]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.43.34:870][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.43.34:870][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.43.34:870][249]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:43:34 AM)
+[2022.09.23-23.43.34:870][249]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.43.34:884][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014053s)
+[2022.09.23-23.43.34:885][249]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.43.34:885][249]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2022.09.23-23.43.34:885][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014677s)
+[2022.09.23-23.43.34:933][249]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.43.34:946][249]LogInit: FAudioDevice initialized.
+[2022.09.23-23.43.34:981][249]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.43.34:984][249]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.43.34
+[2022.09.23-23.43.34:984][249]LogWorld: Bringing up level for play took: 0.002601
+[2022.09.23-23.43.34:998][249]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled -0.776
+[2022.09.23-23.43.34:999][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.43.38:097][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.09.23-23.43.39:092][647]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.TargetTemplate
+[2022.09.23-23.43.46:473][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.43.46:473][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.43.46:529][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.43.46:529][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.43.46:558][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.43.46:613][361]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.09.23-23.43.47:971][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.45.36:292][296]BlueprintLog: New page: Compile TargetTemplate
+[2022.09.23-23.45.38:043][366]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Untitled84B48D3B491AEA313B97D7AADD8EF663.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap'
+[2022.09.23-23.45.38:070][366]LogFileHelpers: Saving map 'Untitled' took 0.374
+[2022.09.23-23.45.38:297][366]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/TargetTemplate11740DEF4AAE23E5CA6A719589D89F10.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.uasset'
+[2022.09.23-23.45.38:785][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.46.08:922][454]BlueprintLog: New page: Compile TargetTemplate
+[2022.09.23-23.46.10:065][474]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/UntitledDFAA3BDF442B4B2CE92F3CBBB1E81595.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap'
+[2022.09.23-23.46.10:091][474]LogFileHelpers: Saving map 'Untitled' took 0.354
+[2022.09.23-23.46.10:311][474]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/TargetTemplate1BC8C2D941014A5D62A547A095D5B6BC.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.uasset'
+[2022.09.23-23.46.10:906][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.46.10:966][533]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.46.10:984][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.46.10:984][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.46.10:984][533]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:46:10 AM)
+[2022.09.23-23.46.10:984][533]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.46.10:999][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014898s)
+[2022.09.23-23.46.11:000][533]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.46.11:000][533]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2022.09.23-23.46.11:000][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.015665s)
+[2022.09.23-23.46.11:051][533]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.46.11:065][533]LogInit: FAudioDevice initialized.
+[2022.09.23-23.46.11:102][533]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.46.11:105][533]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.46.11
+[2022.09.23-23.46.11:105][533]LogWorld: Bringing up level for play took: 0.002823
+[2022.09.23-23.46.11:119][533]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled -0.656
+[2022.09.23-23.46.11:119][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.46.25:870][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.46.25:870][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.46.25:913][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.46.25:913][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.46.25:945][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.46.25:977][203]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.09.23-23.46.31:754][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.46.31:819][752]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.46.31:836][752]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.46.31:837][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.46.31:837][752]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:46:31 AM)
+[2022.09.23-23.46.31:837][752]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.46.31:851][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014119s)
+[2022.09.23-23.46.31:851][752]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.46.31:851][752]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2022.09.23-23.46.31:852][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014743s)
+[2022.09.23-23.46.31:899][752]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.46.31:911][752]LogInit: FAudioDevice initialized.
+[2022.09.23-23.46.31:945][752]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.46.31:948][752]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.46.31
+[2022.09.23-23.46.31:948][752]LogWorld: Bringing up level for play took: 0.002403
+[2022.09.23-23.46.31:961][752]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.187
+[2022.09.23-23.46.31:962][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.46.36:827][273]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.TargetTemplate
+[2022.09.23-23.47.03:144][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.47.03:144][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.47.03:203][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.47.03:203][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.47.03:234][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.47.03:293][449]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.09.23-23.47.04:559][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.47.20:837][208]BlueprintLog: New page: Compile TargetTemplate
+[2022.09.23-23.47.21:772][208]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/UntitledEE110F354DA2CEDDE3FCC9B293C87DA5.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap'
+[2022.09.23-23.47.21:798][208]LogFileHelpers: Saving map 'Untitled' took 0.355
+[2022.09.23-23.47.22:035][208]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/TargetTemplateBDB26CDC4BE4CF8E655790A9DD1CD79A.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.uasset'
+[2022.09.23-23.47.22:588][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.47.22:633][250]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.47.22:651][250]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.47.22:651][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.47.22:651][250]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:47:22 AM)
+[2022.09.23-23.47.22:651][250]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.47.22:665][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014421s)
+[2022.09.23-23.47.22:666][250]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.47.22:666][250]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2022.09.23-23.47.22:666][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.015064s)
+[2022.09.23-23.47.22:713][250]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.47.22:726][250]LogInit: FAudioDevice initialized.
+[2022.09.23-23.47.22:758][250]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.47.22:761][250]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.47.22
+[2022.09.23-23.47.22:761][250]LogWorld: Bringing up level for play took: 0.002619
+[2022.09.23-23.47.22:775][250]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 1
+[2022.09.23-23.47.22:775][250]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.47.27:960][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.47.27:961][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.47.27:998][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.47.27:998][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.47.28:028][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.47.28:067][715]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.09.23-23.47.28:728][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.47.29:684][866]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.47.29:697][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.47.29:697][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.47.29:697][866]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:47:29 AM)
+[2022.09.23-23.47.29:697][866]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.47.29:711][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014060s)
+[2022.09.23-23.47.29:712][866]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.47.29:712][866]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2022.09.23-23.47.29:712][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014709s)
+[2022.09.23-23.47.29:760][866]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.47.29:773][866]LogInit: FAudioDevice initialized.
+[2022.09.23-23.47.29:805][866]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.47.29:808][866]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.47.29
+[2022.09.23-23.47.29:808][866]LogWorld: Bringing up level for play took: 0.002697
+[2022.09.23-23.47.29:821][866]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.046
+[2022.09.23-23.47.29:822][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.47.31:209][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.47.31:317][ 37]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.TargetTemplate
+[2022.09.23-23.47.41:930][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.47.41:930][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.47.41:984][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.47.41:984][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.47.42:014][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.47.42:070][916]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.09.23-23.47.42:980][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.48.51:491][394]LogEditorTransaction: Undo Move Node
+[2022.09.23-23.48.54:423][665]BlueprintLog: New page: Compile TargetTemplate
+[2022.09.23-23.48.55:675][693]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/UntitledF3BD5A434301B4A10D22B9BC840FE5DA.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap'
+[2022.09.23-23.48.55:701][693]LogFileHelpers: Saving map 'Untitled' took 0.356
+[2022.09.23-23.48.55:919][693]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/TargetTemplate1A46E2C8468D20467B4D26AE5F9B5E28.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.uasset'
+[2022.09.23-23.48.56:974][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.49.19:001][986]LogEditorTransaction: Undo Move Node
+[2022.09.23-23.49.36:582][787]BlueprintLog: New page: Compile TargetTemplate
+[2022.09.23-23.49.37:845][819]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/Untitled6038CDDC4DEA15F94EEF3FBD0E76FD22.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Untitled.umap'
+[2022.09.23-23.49.37:871][819]LogFileHelpers: Saving map 'Untitled' took 0.359
+[2022.09.23-23.49.38:088][819]LogSavePackage: Moving '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Saved/TargetTemplate40D63E72441BDC2DE6039ABB8754D5C3.tmp' to '../../../../../../Users/sphynx/Desktop/Sphynx's Aim World II/Content/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.uasset'
+[2022.09.23-23.49.38:344][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.49.38:399][842]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.49.38:418][842]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.49.38:419][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.49.38:419][842]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:49:38 AM)
+[2022.09.23-23.49.38:419][842]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.49.38:435][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016003s)
+[2022.09.23-23.49.38:435][842]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.49.38:436][842]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2022.09.23-23.49.38:436][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.016758s)
+[2022.09.23-23.49.38:502][842]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.49.38:517][842]LogInit: FAudioDevice initialized.
+[2022.09.23-23.49.38:554][842]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.49.38:557][842]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.49.38
+[2022.09.23-23.49.38:557][842]LogWorld: Bringing up level for play took: 0.002853
+[2022.09.23-23.49.38:571][842]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.796
+[2022.09.23-23.49.38:571][842]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.49.50:974][171]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.49.50:974][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.49.51:016][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.49.51:016][171]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.49.51:048][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.49.51:081][173]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.09.23-23.49.52:806][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.49.53:772][448]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.23-23.49.53:785][448]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.49.53:785][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.23-23.49.53:786][448]PIE: New page: PIE session: Untitled (Sep 24, 2022, 5:49:53 AM)
+[2022.09.23-23.49.53:786][448]LogPlayLevel: Creating play world package: /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled
+[2022.09.23-23.49.53:800][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014259s)
+[2022.09.23-23.49.53:800][448]LogAIModule: Creating AISystem for world Untitled
+[2022.09.23-23.49.53:801][448]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2022.09.23-23.49.53:801][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/UGC2842012712/Untitled.Untitled to /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled (0.014931s)
+[2022.09.23-23.49.53:847][448]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.23-23.49.53:860][448]LogInit: FAudioDevice initialized.
+[2022.09.23-23.49.53:890][448]LogLoad: Game class is 'GameModeBase'
+[2022.09.23-23.49.53:893][448]LogWorld: Bringing World /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2022.09.24-02.49.53
+[2022.09.23-23.49.53:893][448]LogWorld: Bringing up level for play took: 0.002576
+[2022.09.23-23.49.53:906][448]PIE: Play in editor start time for /Game/CustomMaps/UGC2842012712/UEDPIE_0_Untitled 0.132
+[2022.09.23-23.49.53:907][448]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.49.54:718][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.49.54:860][554]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CustomMaps/UGC2842012712/Blueprints/NewBlueprints/InheritanceExperiements/TargetTemplate.TargetTemplate
+[2022.09.23-23.50.14:686][334]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.50.14:686][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.50.14:742][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.23-23.50.14:742][334]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/CustomMaps/UGC2842012712/Untitled.Untitled_C' with ClassGeneratedBy '/Game/CustomMaps/UGC2842012712/Untitled.Untitled:PersistentLevel.Untitled'
+[2022.09.23-23.50.14:773][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-23.50.14:830][335]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.09.23-23.50.16:701][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.23-23.50.23:302][119]LogUObjectArray: Warning: Invalid object index 6357097
+[2022.09.23-23.50.23:302][119]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.09.23-23.50.23:776][119]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.474 s
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: === Handled ensure: ===
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: 
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: Stack: 
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fff75308304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fff753181ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fff738cbcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fff7292769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fff728e0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fff76597c74 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fff767e4393 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fff765f2d7a UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fff765c8a70 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fff765bb263 UE4Editor-Slate.dll!UnknownFunction []
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fffb11adc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fffb11a0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.23-23.50.23:776][119]LogOutputDevice: Error: [Callstack] 0x00007fffb11b01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.23-23.50.23:777][119]LogOutputDevice: Error: [Callstack] 0x00007fffb119ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.23-23.50.23:777][119]LogOutputDevice: Error: [Callstack] 0x00007ff80319e858 USER32.dll!UnknownFunction []
+[2022.09.23-23.50.23:777][119]LogOutputDevice: Error: [Callstack] 0x00007ff80319e299 USER32.dll!UnknownFunction []
+[2022.09.23-23.50.23:777][119]LogOutputDevice: Error: [Callstack] 0x00007fffb11b1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.09.23-23.50.23:777][119]LogOutputDevice: Error: [Callstack] 0x00007ff701a95546 UE4Editor.exe!UnknownFunction []
+[2022.09.23-23.50.23:777][119]LogOutputDevice: Error: [Callstack] 0x00007ff701aa596c UE4Editor.exe!UnknownFunction []
+[2022.09.23-23.50.23:777][119]LogOutputDevice: Error: [Callstack] 0x00007ff701aa59ea UE4Editor.exe!UnknownFunction []
+[2022.09.23-23.50.23:777][119]LogOutputDevice: Error: [Callstack] 0x00007ff701ab48da UE4Editor.exe!UnknownFunction []
+[2022.09.23-23.50.23:777][119]LogOutputDevice: Error: [Callstack] 0x00007ff701ab659a UE4Editor.exe!UnknownFunction []
+[2022.09.23-23.50.23:777][119]LogOutputDevice: Error: [Callstack] 0x00007ff8030e7034 KERNEL32.DLL!UnknownFunction []
+[2022.09.23-23.50.23:777][119]LogOutputDevice: Error: [Callstack] 0x00007ff8037826a1 ntdll.dll!UnknownFunction []
+[2022.09.23-23.50.23:777][119]LogOutputDevice: Error: 
+[2022.09.23-23.50.23:779][119]LogStats:                SubmitErrorReport -  0.000 s
